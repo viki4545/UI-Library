@@ -1,0 +1,26 @@
+{
+  "name": "my-component",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Vicky <vickygupta9987@gmail.com>",
+  "homepage": "https://github.com/viki4545/UI-Library#readme",
+  "license": "ISC",
+  "main": "lib/my-component.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viki4545/UI-Library.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/my-component.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/viki4545/UI-Library/issues"
+  }
+}
